@@ -1,0 +1,23 @@
+while(i < lineNum){
+               String s1 = list[lineNum]; // new word that is getting compared
+               String s2 = list[i];       // word in list, iterate through this one
+                  if(s1.compareTo(s2)>0){
+                  i++;
+                     if(i == L.length()){
+                     L.append(lineNum);
+                     //break;
+                     }
+                  }  
+                  else if(s1.compareTo(s2)<0){
+                     L.moveFront();
+                     for(int j = 0; j < i; j++){
+                     L.moveNext();
+                     }
+                     
+                  L.insertBefore(lineNum);
+                  break;
+                  }     
+            }
+         }
+      i = 0;
+      lineNum++;

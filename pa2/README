@@ -1,0 +1,16 @@
+// --------------------------------------------------------------------------
+// Kevin Trinh, kevatrin
+// 2019 Summer CMPS101 PA2
+// README
+// List of Programs included in assignment
+// --------------------------------------------------------------------------
+
+1)List.c
+2)List.h
+3)Matrix.c
+4)Matrix.h
+5)Sparse.c
+6)ListTest.c
+7)MatrixTest.c
+8)Makefile
+9)README

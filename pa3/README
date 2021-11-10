@@ -1,0 +1,18 @@
+Name: Kevin Trinh
+CMPS-101
+README
+
+1)Sparse.java
+Contains Program Client
+2)Matrix.java
+Contains Matrix ADT routines
+3)List.java
+COntains modified List ADT routines
+4)MatrixTest.java
+Contains a main program that is used to test the Matrix ADT routines
+5)ListTest.java
+Contains a main program that is used to test the List ADT routines
+6)Makefile
+Makefile 
+7)README
+README file

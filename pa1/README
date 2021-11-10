@@ -1,0 +1,13 @@
+Name: Kevin Trinh
+CMPS-101
+README
+1)List.java
+Contains List ADT routines
+2)ListClient.java
+A basic test driver for List ADT
+3)Lex.java
+Main program that executes as instructed in assignment description
+4)Makefile
+Makefile for pa1
+5)README
+Contains files required for submission
